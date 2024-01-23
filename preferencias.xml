@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<preferences>
+    <filmes>
+        <filme titulo="Tudo em Todo Lugar Ao Mesmo Tempo">
+            <ano_de_lancamento> 2022 </ano_de_lancamento>
+            <elenco_principal> Michelle Yeoh, Ke Huy Quan, Stephanie Hsu, Jamie Lee Curtis </elenco_principal>
+            <genero> Comédia, drama e ficção científica </genero>
+            <sinopse> Em Tudo em Todo o Lugar ao Mesmo Tempo, acompanhamos uma sobrecarregada imigrante chinesa, Evelyn Wang (Michelle Yeoh) 
+                    que com sua lavanderia à beira do fracasso e seu casamento com o marido covarde em ruínas, ela luta para lidar com tudo, 
+                    incluindo um relacionamento ruim com seu pai crítico e sua filha (Stephanie Hsu). E, como se não bastasse enfrentar a 
+                    crise pessoal, Evelyn precisa se preparar para uma reunião desagradável com uma burocrata impessoal: Deirdre (Jamie Lee Curtis), 
+                    a auditora da Receita Federal. No entanto, à medida que a agente severa perde a paciência, uma inexplicável fenda no multiverso 
+                    se abre, e se torna uma possibilidade para a exploração reveladora de realidades paralelas. Evelyn parte rumo a uma aventura onde, 
+                    sozinha, precisará salvar o mundo e impedir que uma entidade maligna destrua as finas e incontáveis ​​camadas do mundo invisível. 
+                    Explorando outros universos e outras vidas que poderia ter vivido, as coisas se complicam ainda mais, quando ela fica presa nessa 
+                    infinidade de possibilidades sem conseguir retornar para casa. </sinopse>
+        </filme>
+
+        <filme titulo="O Labirinto do Fauno">
+            <ano_de_lancamento> 2006 </ano_de_lancamento>
+            <elenco_principal> Ivana Baquero, Doug Jones, Ariadna Gil, Sergi López, Maribel Verdú </elenco_principal>
+            <genero> Drama, fantasia e suspense </genero>
+            <sinopse> O Labirinto do Fauno se passa na Espanha, 1944. Oficialmente a Guerra Civil já terminou, mas um grupo de rebeldes ainda luta nas 
+                    montanhas ao norte de Navarra. Ofelia (Ivana Baquero), de 10 anos, muda-se para a região com sua mãe, Carmen (Ariadna Gil). Lá as espera 
+                    seu novo padrasto, um oficial fascista que luta para exterminar os guerrilheiros da localidade. Solitária, a menina logo descobre a amizade 
+                    de Mercedes (Maribel Verdú), jovem cozinheira da casa, que serve de contato secreto dos rebeldes. Além disso, em seus passeios pelo jardim da 
+                    imensa mansão em que moram, Ofelia descobre um labirinto que faz com que todo um mundo de fantasias se abra, trazendo consequências para todos 
+                    à sua volta. </sinopse>
+        </filme>
+
+        <filme titulo="A Viagem de Chihiro">
+            <ano_de_lancamento> 2003 </ano_de_lancamento>
+            <elenco_principal> Rumi Hiiragi, Miyu Irino, Yumi Tamai, Mari Natsuki </elenco_principal>
+            <genero> Fantasia, animação e aventura </genero>
+            <sinopse> Chihiro e seus pais estão se mudando para uma cidade diferente. A caminho da nova casa, o pai decide pegar um atalho. Eles se deparam com uma 
+                    mesa repleta de comida, embora ninguém esteja por perto. Chihiro sente o perigo, mas seus pais começam a comer. Quando anoitece, eles se transformam 
+                    em porcos. Agora, apenas Chihiro pode salvá-los. </sinopse>
+        </filme>
+    </filmes>
+
+    <livros>
+        <livro titulo="O Mistério da Estrela">
+                <autor> Neil Gaiman </autor>
+                <ano_de_lancamento> 1997 </ano_de_lancamento>
+                <genero> Fantasia, aventura </genero>
+                <numero_de_paginas> 280 </numero_de_paginas>
+        </livro>
+
+        <livro titulo="O Mundo Assombrado pelos Demônios">
+                <autor> Carl Sagan </autor>
+                <ano_de_lancamento> 1995 </ano_de_lancamento>
+                <genero> Ciência </genero>
+                <numero_de_paginas> 512 </numero_de_paginas>
+        </livro>
+
+        <livro titulo="O Oceano no Fim do Caminho">
+                <autor> Neil Gaiman </autor>
+                <ano_de_lancamento> 2013 </ano_de_lancamento>
+                <genero> Drama e fantasia </genero>
+                <numero_de_paginas> 208 </numero_de_paginas>
+        </livro>
+    </livros>
+
+    <comidas>
+        <comida nome="Ratatouille">
+            <ingredientes> Abobrinha, berinjela, tomate, pimentão verde, pimentaão vermelho, pimentação amarelo, cebola, alho, pimenta-do-reino, manjericão, 
+                            azeite, molho de tomate.
+            </ingredientes>
+        </comida>
+
+        <comida nome="Jalfrezi (vegetariano)">
+            <ingredientes> Tofu, batata, couve-flor, cenoura, ervilhas, cebola, tomate, alho, gengibre, pimentão verde, garam masala, pimenta caiena, leite de coco. </ingredientes>
+        </comida>
+
+        <comida nome="Falafel">
+            <ingredientes> Grão de bico, cebola, salsinha, coentro, alho, cominho, pimenta síria, pimenta do reino.</ingredientes>
+        </comida>
+    </comidas>
+</preferences>
